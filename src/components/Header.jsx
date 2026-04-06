@@ -3,7 +3,7 @@ import WalletConnect from './WalletConnect'
 export default function Header() {
   return (
     <div style={{
-      background: var(--bg-secondary)',
+      background: 'var(--bg-secondary)',
       borderBottom: '1px solid var(--border)',
       padding: '0 2rem',
       height: 72,
